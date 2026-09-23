@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/admin",
-      "destination": "https://leadrvision-v2-six.vercel.app/site-admin/site-579cdd31a4ba326ded9062d4bdc1ea4bbcca",
+      "destination": "https://vision.leadrai.com/site-admin/site-579cdd31a4ba326ded9062d4bdc1ea4bbcca",
       "permanent": false
     }
   ]
